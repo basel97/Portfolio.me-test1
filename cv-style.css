@@ -3,9 +3,11 @@ body{
     margin:0;
 background-color: black;
 background-image: url("—Pngtree—technology background binary computer code_1264149.png");
-    background-color: #cccccc;
+    
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;}
+
 
 
 .upper-bar{
@@ -57,7 +59,7 @@ p.P-R {
 p.P-R:hover {
     color: rgb(0, 255, 234);
     font-size: 18px;
-    font-weight: 800;
+    font-weight: 500;
 }
 
 
@@ -115,7 +117,7 @@ p.P-R:hover {
 
 
 #Container {
-    background-color: rgb(109, 107, 230,0.1);
+    background-color: rgba(0, 0, 0, 0.5);
     display: flex;
     flex-wrap: wrap;
     position: relative;
